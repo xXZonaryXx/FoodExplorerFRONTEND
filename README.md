@@ -37,7 +37,7 @@ ___
 Clone o projeto.
 
 ```bash
-$ git clone git@github.com:seu-usuario/food-explorer.git
+$ git clone https://github.com/xXZonaryXx/FoodExplorerFRONTEND
 ```
 ___
 
